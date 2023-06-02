@@ -1,0 +1,4 @@
+repository "UpdatePro@cherswang@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
