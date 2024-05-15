@@ -1188,7 +1188,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1135678233
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1786,6 +1786,8 @@ MonoBehaviour:
   slider: {fileID: 1969276074}
   loadingProgress: {fileID: 186244091}
   updateContent: {fileID: 1531002207}
+  downloadedSize: {fileID: 0}
+  fileSize: {fileID: 0}
 --- !u!4 &1391812318
 Transform:
   m_ObjectHideFlags: 0
@@ -2074,7 +2076,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1743787351
 RectTransform:
   m_ObjectHideFlags: 0
